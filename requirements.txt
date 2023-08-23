@@ -4,7 +4,7 @@ fsspec>=0.6.0
 toolz>=0.8.2
 
 dask>=2.9.2
-hypothesis==5.19.3
+hypothesis==6.0.4
 matplotlib>=3.0.3
 numpy>=1.17.4
 pandas>=1.0.0
